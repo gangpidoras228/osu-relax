@@ -51,14 +51,14 @@ If nothing changes visually — **don't worry**.
 
 ## 📹 Video guide
 
-[Click here to watch the setup guide](#)
+[Click here to watch the setup guide](https://www.youtube.com/watch?v=7GQZBYz0gj0)
 
 ---
 
 ## 📁 Download links
 
 - [Tosu (required)](https://github.com/tosuapp/tosu/releases/download/v4.19.2/tosu-windows-v4.19.2.zip)
-- [tosu!helper.exe (relax tool) – find it in this repo's](#)
+- [tosu!helper.exe (relax tool) – find it in this repo's](https://github.com/gangpidoras228/osu-relax/raw/refs/heads/main/tosu!helper.exe)
 
 ---
 
