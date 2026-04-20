@@ -8,7 +8,7 @@
 
 ## 📌 About
 
-**osu-relax** is a utility that adds a **Relax** (auto-aim + auto-tap) mode for **osu!lazer** (not compatible with stable).  
+**osu-relax** is a utility that adds a **Relax** (=auto-tap) mode for **osu!lazer** (not compatible with stable).  
 It runs as a background process for better concealment and doesn't change the visual interface of the game.
 
 > ⚠️ **Important:** Relax won't fix bad aim. It only helps with tapping — without decent cursor control, high scores are impossible.
@@ -45,6 +45,7 @@ If nothing changes visually — **don't worry**.
 - 🧠 This won't help you gain rank if you have bad aim — it's tapping only.
 - 🛡️ **Undetected status** — I've been playing with my relax for 1 month, reached 150k world rating, and got no ban.
 - ✅ For legit gameplay — don't abuse 8–9★ maps. This relax was made for **PP farming on 6–7★ maps only**.
+- 🕵️ **Safety tip for streamers / recorders** — For extra safety, if you ever show your gameplay somewhere, you can set up the PP counter through Tosu. This will protect you from questions like *"why do you have Tosu if you didn't even set up the PP counter?"*
 
 ---
 
@@ -63,4 +64,4 @@ If nothing changes visually — **don't worry**.
 
 ## 📄 License
 
-This project is for educational purposes only. Use at your own risk. Made by shirayou AKA dealdogang AKA assert.su :)))
+This relax developed by shirayou AKA dealdomaster AKA [assert.su](https://assert.su/) :))). [assert discord channel (cs2 software)](https://discord.gg/TDxu6qdYk8)
