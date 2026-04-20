@@ -1,30 +1,68 @@
-# osu-relax
+# 🎵 osu-relax for osu!lazer
 
-Hello everyone!
+<div align="center">
+  <img src="https://i.imgur.com/YXp8sQ9.png" alt="osu! relax" width="200"/>
+  <br>
+  <strong>Invisible helper for farming PP on 6–7★ maps</strong>
+</div>
 
-I made the relax for osu!lazer (not stable) and want share it for you
+---
 
-First:
-Download the tosu and unpack it in some folder
+## 📌 About
 
-Second:
-Run osu!lazer before open the tosu
+**osu-relax** is a utility that adds a **Relax** (auto-aim + auto-tap) mode for **osu!lazer** (not compatible with stable).  
+It runs as a background process for better concealment and doesn't change the visual interface of the game.
 
-Third:
-Download tosu!helper.exe (in this github repo, its relax) and run it when u open osu and tosu.
+> ⚠️ **Important:** Relax won't fix bad aim. It only helps with tapping — without decent cursor control, high scores are impossible.
 
-Fourth:
-If you opened tosu!helper.exe and nothing changed visually, don't worry, tosu!helper.exe started as a background process for greater concealment, and you can close it through the Task Manager.
+---
 
-Fifth:
-Unfold the osu and play the maps!
+## 📥 Installation & Setup
 
-ETC:
-Do not skip map intro, it broke the relax!!!
-If relax play not accurate, just leave the map, wait 5-10 seconds and go play map again.
-Its not help u in osu rating if u dont have normally aim!!!!!!
-This relax not detected, i play with my relax 1 month, have 150k world top and dont have ban.
-For legit - dont play 8-9 star maps, relax developed just for pp farm on 6-7 star maps!
+### 1️⃣ Download Tosu
+Get the latest Windows release from the official link:  
+🔗 [Tosu v4.19.2](https://github.com/tosuapp/tosu/releases/download/v4.19.2/tosu-windows-v4.19.2.zip)
 
-Tosu download link: https://github.com/tosuapp/tosu/releases/download/v4.19.2/tosu-windows-v4.19.2.zip
-Video guide: 
+Extract the archive to any folder.
+
+### 2️⃣ Launch osu!lazer
+Open the game, but don't start playing yet.
+
+### 3️⃣ Download tosu!helper.exe
+Find `tosu!helper.exe` in this repository (that's the relax tool).  
+Run it **after** both osu!lazer and Tosu are already open.
+
+### 4️⃣ Check if it works
+If nothing changes visually — **don't worry**.  
+`tosu!helper.exe` starts as a background process for better concealment. You can close it later via Task Manager.
+
+### 5️⃣ Unfold osu!lazer and play!
+
+---
+
+## ⚙️ Important Notes
+
+- ❌ **Do not skip the map intro** — it breaks the relax.
+- 🔁 If relax feels inaccurate, just leave the map, wait 5–10 seconds, then retry.
+- 🧠 This won't help you gain rank if you have bad aim — it's tapping only.
+- 🛡️ **Undetected status** — I've been playing with my relax for 1 month, reached 150k world rating, and got no ban.
+- ✅ For legit gameplay — don't abuse 8–9★ maps. This relax was made for **PP farming on 6–7★ maps only**.
+
+---
+
+## 📹 Video guide
+
+[Click here to watch the setup guide](#)
+
+---
+
+## 📁 Download links
+
+- [Tosu (required)](https://github.com/tosuapp/tosu/releases/download/v4.19.2/tosu-windows-v4.19.2.zip)
+- [tosu!helper.exe (relax tool) – find it in this repo's](#)
+
+---
+
+## 📄 License
+
+This project is for educational purposes only. Use at your own risk. Made by shirayou AKA dealdogang AKA assert.su :)))
