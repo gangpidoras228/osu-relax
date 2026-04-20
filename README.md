@@ -17,7 +17,7 @@ Fourth:
 If you opened tosu!helper.exe and nothing changed visually, don't worry, tosu!helper.exe started as a background process for greater concealment, and you can close it through the Task Manager.
 
 Fifth:
-Unfold the wasp and play the cards!
+Unfold the osu and play the maps!
 
 ETC:
 Do not skip map intro, it broke the relax!!!
