@@ -1,8 +1,6 @@
 # 🎵 osu-relax for osu!lazer
 
 <div align="center">
-  <img src="https://i.imgur.com/YXp8sQ9.png" alt="osu! relax" width="200"/>
-  <br>
   <strong>Invisible helper for farming PP on 6–7★ maps</strong>
 </div>
 
